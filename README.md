@@ -7,6 +7,6 @@ Yeah, pretty cool indeed.
 <h1> ver.0.01 </h1>
 </p>
 learning basics of HTML
-<i>April 26, 2023</i>
+<i> -- April 26, 2023</i>
 </p>
 
