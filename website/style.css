@@ -5,22 +5,28 @@ html, body {
     margin: 0;
 }
 
+/***
+Main Grid
+***/
 .grid-omega {
     background: black;
     margin: 0;
 
     display: grid;
     grid-template-columns: 1fr;
-    grid-template-rows: 200px 1fr 500px 200px 200px;
+    grid-template-rows: 200px auto 500px 1fr 150px;
     grid-template-areas:
       "header"
       "nav"
       "main"
       "footer-1"
       "footer-2";
-    gap: 2px;
+    gap: 0px;  /* for DEBUGGING */
 }
 
+/***
+Grid: header
+***/
 .grid-header {
     grid-area: header;
     background: rgb(45, 139, 183);
@@ -38,6 +44,9 @@ html, body {
     padding: 54px;
 }
 
+/***
+Grid: nav
+***/
 .grid-nav {
     grid-area: nav;
     background: rgb(45, 139, 183);
@@ -63,16 +72,52 @@ html, body {
     color: white;
 }
 
+.grid-nav a, .grid-nav li {
+    display: inline-block;
+    padding: 5px 10px;
+}
+
+/***
+Grid: main 
+***/
 .grid-main {
     grid-area: main;
     background-color: rgb(241, 255, 255);
 }
 
+/***
+Grid: footer-1
+***/
 .grid-footer-1 {
     grid-area: footer-1;
     background-color: rgb(11, 55, 55);
+
+    color: white;
+    text-align: center;
 }
 
+.container-motd {
+    padding: 20px;
+}
+
+.container-motd h2 {
+    margin: 0;
+    padding: 20px 20px 10px 20px;
+
+    font-style: oblique;
+    font-size: 50px;
+}
+
+.container-motd h5 {
+    margin: 0;
+    padding: 20px;
+
+    font-size: 20px;
+}
+
+/***
+Grid: footer-2
+***/
 .grid-footer-2 {
     grid-area: footer-2;
     background-color: rgb(22, 22, 22);
