@@ -14,7 +14,7 @@ Main Grid
 
     display: grid;
     grid-template-columns: 1fr;
-    grid-template-rows: 200px auto 500px 1fr 150px;
+    grid-template-rows: 200px auto 500px auto 150px;
     grid-template-areas:
       "header"
       "nav"
@@ -92,7 +92,7 @@ Grid: footer-1
     grid-area: footer-1;
     background-color: rgb(11, 55, 55);
 
-    color: white;
+    color: rgb(149, 149, 149);
     text-align: center;
 }
 
@@ -104,14 +104,15 @@ Grid: footer-1
     margin: 0;
     padding: 20px 20px 10px 20px;
 
-    font-style: oblique;
-    font-size: 50px;
+    font-size: 37px;
 }
 
 .container-motd h5 {
     margin: 0;
     padding: 20px;
 
+    color: rgb(209, 209, 209);
+    font-style: oblique;
     font-size: 20px;
 }
 
