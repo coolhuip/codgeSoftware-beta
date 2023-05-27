@@ -8,7 +8,7 @@ Yeah, pretty cool indeed.
 <i>May 27, 2023</i>
 <ul>
   <li>Archive static website.</li>
-  <li>Set up a custom foundation for a Web App using Vite and Node.js</li>
+  <li>Set up a custom foundation for a Web App using Vite and Node.js.</li>
 </ul>
   
 
