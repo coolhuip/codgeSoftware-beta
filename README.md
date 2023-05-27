@@ -6,6 +6,7 @@ Yeah, pretty cool indeed.
 
 <h2> ver.0.02 </h2>
 <i>May 27, 2023</i>
+<br>
 <ul>
   <li>Archive static website.</li>
   <li>Set up a custom foundation for a Web App using Vite and Node.js.</li>
