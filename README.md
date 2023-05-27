@@ -5,15 +5,12 @@ Yeah, pretty cool indeed.
 <br>
 
 <h2> ver.0.02 </h2>
-</p>
 
 <i> -- May 27, 2023</i>
-</p>
 
 <h2> ver.0.01 </h2>
 <ul>
   <li>Learn basics of HTML and CSS.</li>
 </ul>
-
-</p>
+<i> -- April 26, 2023</i>
 
