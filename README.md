@@ -5,11 +5,16 @@ Yeah, pretty cool indeed.
 <br>
 
 <h2> ver.0.02 </h2>
+<i>May 27, 2023</i>
+<ul>
+  <li>Archive static website.</li>
+  <li>Set up a custom foundation for a Web App using Vite and Node.js</li>
+</ul>
+  
 
-<i> -- May 27, 2023</i>
 
 <h2> ver.0.01 </h2>
-April 26, 2023
+<i>April 26, 2023</i>
 <ul>
   <li>Learn basics of HTML and CSS.</li>
 </ul>
