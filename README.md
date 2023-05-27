@@ -12,7 +12,9 @@ Yeah, pretty cool indeed.
   <li>Archive static website.</li>
   <li>Set up a custom foundation for a Web App using Vite and Node.js.</li>
 </ul>
-  
+
+
+<br>
 
 
 <h2> ver.0.01 </h2>
