@@ -2,6 +2,8 @@
 This is the first-ever documentation (of any kind) to exist for codgeSoftware.
 
 Yeah, pretty cool indeed.
+
+<br>
 <br>
 
 <h2> ver.0.02 </h2>
