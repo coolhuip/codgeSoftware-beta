@@ -11,10 +11,9 @@ Yeah, pretty cool indeed.
 </p>
 
 <h2> ver.0.01 </h2>
-</p>
 <ul>
   <li>Learn basics of HTML and CSS.</li>
 </ul>
-<i> -- April 26, 2023</i>
+
 </p>
 
