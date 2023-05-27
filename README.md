@@ -12,7 +12,7 @@ Yeah, pretty cool indeed.
 
 <h2> ver.0.01 </h2>
 </p>
-Learn basics of HTML and CSS.
+Learn basics of HTML and CSS.<br>
 <i> -- April 26, 2023</i>
 </p>
 
