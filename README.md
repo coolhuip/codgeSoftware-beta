@@ -15,6 +15,7 @@ Yeah, pretty cool indeed.
 
 <h2> ver.0.01 </h2>
 <i>April 26, 2023</i>
+<br>
 <ul>
   <li>Learn basics of HTML and CSS.</li>
 </ul>
