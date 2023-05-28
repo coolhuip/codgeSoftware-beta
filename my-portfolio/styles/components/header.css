@@ -69,7 +69,20 @@
 }
 
 /* large */
-/* @media (min-width: 1024px) {} */
+@media (min-width: 1024px) {
+    .header__link {
+        font-size: var(--size-sm);
+    }
+    
+    .header__sun {
+        width: var(--size-2xl);
+        height: var(--size-2xl);
+    }
+    
+    .header__resume {
+        font-size: var(--size-sm);
+    }
+}
 
 /* x-large */
 /* @media (min-width: 1280px) {} */
