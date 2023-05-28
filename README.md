@@ -1,6 +1,6 @@
 # codgeSoftware_pre_alpha
 <br>
-This is the first-ever documentation (of any kind) to exist for codgeSoftware.
+This is the first-ever documentation (of any kind) to exist for codgeSoftware_.
 
 Yeah, pretty cool indeed.
 <br>
