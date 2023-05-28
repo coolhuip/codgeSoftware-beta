@@ -9,7 +9,6 @@
     display: flex;
     align-items: center;
     list-style: none;
-    border: 1px solid red;
     padding: 0;
     gap: 2em;
 }
@@ -25,6 +24,22 @@
 
 .header__link:hover {
     color: var(--clr-rose);
+}
+
+.header__line {
+    border: 1px solid var(--clr-slate600);
+    padding-top: 1.5em;
+}
+
+.header__sun {
+    display: block;
+    color: var(--clr-slate600);
+    width: var(--size-xl);
+    height: var(--size-xl);
+}
+
+.header__resume {
+    font-size: var(--size-xs);
 }
 
 /* Code above is for any screens SMALLER than 475px width. */
