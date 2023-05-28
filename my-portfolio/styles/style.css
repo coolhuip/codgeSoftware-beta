@@ -31,6 +31,7 @@ BUT, modern-normalize.css already defines this for you.
     /* rgb(225, 29, 72) rose */
     /* rgb(79, 70, 229) indigo*/
 
+    /* The sizes below are from Tailwind CSS. */
     --size-xxs: 0.5rem;
     --size-xs: 0.75rem;
     --size-sm: 0.875rem;
