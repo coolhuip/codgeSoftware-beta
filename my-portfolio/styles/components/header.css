@@ -1,0 +1,48 @@
+.header {
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.header__menu {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    border: 1px solid red;
+    padding: 0;
+    gap: 2em;
+}
+
+.header__link {
+    font-size: var(--size-xs);
+    text-decoration: none;
+    font-weight: 600;
+    color: var(--clr-slate600);
+    letter-spacing: -0.05em;
+    transition: color 0.3s;
+}
+
+.header__link:hover {
+    color: var(--clr-rose);
+}
+
+/* Code above is for any screens SMALLER than 475px width. */
+
+/* x-small */
+/* @media (min-width: 475px) {} */
+
+/* small */
+/* @media (min-width: 640px) {} */
+
+/* medium */
+/* @media (min-width: 768px) {} */
+
+/* large */
+/* @media (min-width: 1024px) {} */
+
+/* x-large */
+/* @media (min-width: 1280px) {} */
+
+/* xx-large */
+/* @media (min-width: 1536px) {} */
