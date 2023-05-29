@@ -1,0 +1,39 @@
+.hero {
+    text-align: center;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 2rem;
+}
+
+.hero__img {
+    border-radius: 50%;
+    width: 13rem;
+    height: 13rem;
+}
+
+.hero__subtitle {
+    color: var(--clr-slate600);
+    font-size: var(--size-2xl);
+}
+
+.hero__title {
+    font-family: Arial, Helvetica, sans-serif;
+    color: var(--clr-slate400);
+    font-size: var(--size-4xl);
+    letter-spacing: -0.03em;
+}
+
+.hero__description {
+    max-width: 60ch;
+    font-size: var(--size-sm);
+    color: var(--clr-slate600);
+}
+
+.hero__btn {
+    text-transform: capitalize;
+    font-size: var(--size-sm);
+}
