@@ -26,7 +26,8 @@ BUT, modern-normalize.css already defines this for you.
     --clr-slate600: #475569;
     --clr-slate800: #1e293b;
     --clr-rose: #e11d48;
-    --clr-indigo: #6862d9;
+    --clr-indigo: #00c26b;
+    --clr-codge: #a6bada;
 
     /* rgb(225, 29, 72) rose */
     /* rgb(79, 70, 229) indigo*/
