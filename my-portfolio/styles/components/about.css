@@ -30,9 +30,20 @@
     gap: 1em;
     list-style-type: '\🍎';
     padding-left: 1em;
+    flex: 1;
+}
+
+.about__ul-container {
+    display: flex;
 }
 
 .about__list {
     color: var(--clr-slate600);
     font-size: var(--size-sm); 
+}
+
+/* This pseudoclass ::before is used to give space between the emoji & text. */
+.about__list::before {
+    content: '';
+    margin-left: 0.5em;
 }
