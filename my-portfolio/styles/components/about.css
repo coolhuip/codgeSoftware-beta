@@ -1,16 +1,32 @@
-about__content {
+.about__content {
     display: flex;
     flex-direction: column;
     gap: 1rem;
 }
 
-about__title {
+.about__title {
     font-size: var(--size-2xl);  /* REDUNDANT: for readability */
     color: var(--clr-light);     /* REDUNDANT: for readability */
 }
 
-about__description {
+.about__description {
     max-width: 60ch;
-    font-size: var(--size-5xl);
+    font-size: var(--size-sm);
     color: var(--clr-slate600);
+}
+
+.about__hr {
+    border-color: var(--clr-slate800);
+}
+
+.about__subtitle {
+    font-size: var(--size-sm);
+    color: var(--clr-slate400);
+}
+
+.about__ul {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    list-style-type: '\🍎';
 }
