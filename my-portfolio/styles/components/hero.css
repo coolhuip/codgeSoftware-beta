@@ -11,8 +11,8 @@
 
 .hero__img {
     border-radius: 50%;
-    width: 13rem;
-    height: 13rem;
+    width: 11rem;
+    height: 11rem;
 }
 
 .hero__subtitle {
@@ -28,7 +28,8 @@
     color: var(--clr-slate600);
     font-size: var(--size-4xl);
     letter-spacing: -0.075em;
-    line-height: 0.9;
+    line-height: 1.15;
+    padding-top: 10px;
 }
 
 .hero__title founder {
@@ -53,6 +54,7 @@
 .hero__btn {
     text-transform: capitalize;
     font-size: var(--size-sm);
+    margin-top: 73px;
 }
 
 /* x-small */
