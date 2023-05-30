@@ -29,4 +29,10 @@
     flex-direction: column;
     gap: 1em;
     list-style-type: '\🍎';
+    padding-left: 1em;
+}
+
+.about__list {
+    color: var(--clr-slate600);
+    font-size: var(--size-sm); 
 }
