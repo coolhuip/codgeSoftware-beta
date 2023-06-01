@@ -73,7 +73,7 @@
     }
 
     .hero__description {
-        font-size: var(--size-base);
+        font-size: var(--size-sm);
     }
 
     .hero__btn {
