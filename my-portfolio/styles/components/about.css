@@ -10,8 +10,8 @@
 }
 
 .about__title {
-    font-size: var(--size-2xl);  /* REDUNDANT: for readability */
-    color: var(--clr-light);     /* REDUNDANT: for readability */
+    font-size: var(--size-2xl);  /* REDUNDANT: for readability when copied */
+    color: var(--clr-light);     /* REDUNDANT: for readability when copied */
 }
 
 .about__description {
