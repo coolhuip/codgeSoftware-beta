@@ -6,4 +6,6 @@ The following sections:
     <br> 2) df
     <br> 3) df
     <br>
-...are built following this Build Your Portfolio Website - HTML CSS JS - Dark Mode - Lazy Loading 
+...are built following this tutorial from YouTube: <br>
+    Build Your Portfolio Website - HTML CSS JS - Dark Mode - Lazy Loading <br>
+    @Slaying The Dragon
