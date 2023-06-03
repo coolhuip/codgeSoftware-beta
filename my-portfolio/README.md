@@ -1,6 +1,6 @@
 # my-portfoilo
 
-## NOTE:
+## Note:
 The following sections:
     <br> 1) df
     <br> 2) df
