@@ -1,7 +1,7 @@
 # my-portfoilo
 
 ## Note:
-A significant portion of this project was built following this tutorial from YouTube: <br>
+A significant portion of this project was built following this tutorial from YouTube: <br><br>
     Build Your Portfolio Website - HTML CSS JS - Dark Mode - Lazy Loading <br>
     @Slaying The Dragon <br><br>
 
