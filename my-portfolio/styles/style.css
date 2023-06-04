@@ -97,6 +97,7 @@ strong {
 }
 
 /* Scrollbar */
+/* Currently does NOT work on Firefox browser*/
 body::-webkit-scrollbar {
   width: 8px;
 }
