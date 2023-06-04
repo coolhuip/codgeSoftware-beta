@@ -14,7 +14,6 @@
 .featured__title {
     font-size: var(--size-2xl);  /* REDUNDANT: for readability when copied */
     color: var(--clr-light);     /* REDUNDANT: for readability when copied */
-
 }
 
 .featured__link {
@@ -58,6 +57,33 @@
     text-transform: capitalize;
 }
 
+.featured__img-container {
+    margin-top: 1rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 1rem;
+}
+
+.featured__img-wrapper {
+    position: relative;
+}
+
+.featured__img-wrapper::after {
+    content: '';  /* This is necessary when using pseudoclasses ::after, ::before */
+    background-color: rgba(79, 70, 229, 0.5);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    transition: background-color 0.3s;
+}
+
+.featured__img-wrapper:hover::after {
+    background-color: rgba(79, 70, 229, 0.1);
+}
+
 /* XS */
 @media (min-width: 475px) {
     .featured__subtitle {
@@ -86,10 +112,19 @@
     .featured__info{
         font-size: var(--size-base);
     }
+
+    .featured__img-container {
+        margin-top: 1.5rem;
+        grid-gap: 1.5rem;
+    }
 }
 
 /* S */
-/* @media (min-width: 640px) {} */
+@media (min-width: 640px) {
+    .featured__img-container {
+        grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+    }
+}
 
 /* M */
 /* @media (min-width: 768px) {} */
@@ -150,6 +185,11 @@
 
     .featured__info{
         font-size: var(--size-xl);
+    }
+
+    .featured__img-container {
+        margin-top: 2rem;
+        grid-gap: 2rem;
     }
 }
 
