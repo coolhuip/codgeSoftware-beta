@@ -7,6 +7,7 @@ import '../styles/components/hero.css';
 import '../styles/components/about.css';
 import '../styles/components/featured.css';
 import '../styles/components/work.css';
+import '../styles/components/contact.css';
 import '../styles/utils.css';
 // We want the HIGHEST cascading priority for utile.css
     // Otherwise, it won't work.
