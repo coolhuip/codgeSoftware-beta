@@ -13,7 +13,7 @@ Yeah, pretty cool indeed.
 <br>
 <ul>
   <li>Archive static website.</li>
-  <li>Set up a custom foundation for a Web App using Vite and Node.js.</li>
+  <li>Set up a custom foundation for a Personal Portfolio using Vite and Node.js.</li>
 </ul>
 
 
