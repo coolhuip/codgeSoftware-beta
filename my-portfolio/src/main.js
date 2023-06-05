@@ -17,5 +17,7 @@ import '../styles/utils.css';
 // NOTE: The import functions above only work b/c we're using Vite.
 
 import mobileNav from './utils/mobile-nav';
+import darkMode from './utils/dark-mode';
 
 mobileNav();
+darkMode();
